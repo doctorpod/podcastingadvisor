@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Podcasting Advisor
-email: your-email@domain.com
+email: 
 description: For individuals and organisations starting and producing podcasts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: doctorpod
 github_username:  doctorpod
+permalink: pretty
 
 # Build settings
 markdown: kramdown
@@ -28,4 +29,11 @@ gems:
   - jekyll-feed
 exclude:
   - Gemfile
-  - Gemfile.lock
+  - Gemfile.locsc
+
+# Misc
+media_host: http://media2.wireworldmedia.co.uk/
+
+# Comments
+disqus:
+  shortname: podcastingadvisor

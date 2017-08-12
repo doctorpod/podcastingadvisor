@@ -1,0 +1,51 @@
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+      <h1 class="post-title post-link" itemprop="name headline">
+          {% if include.on_home == true %}
+          <a href="{{ include.post.url | relative_url }}">
+              {{ include.post.title | escape }}
+          </a>
+          {% else %}
+              {{ include.post.title | escape }}
+          {% endif %}
+      </h1>
+    <p class="post-meta">
+      <time datetime="{{ include.post.date }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ include.post.date | date: date_format }}
+      </time>
+      {% if include.post.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ include.post.author.display_name }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  {% if include.post.image %}
+  <div class="post-image">
+    {% if include.post.image.url %}
+    <img class="post-image-image" src="{{ include.post.image.url }}" alt="{{ include.post.image.alt }}"/>
+    {% else %}
+    <img class="post-image-image" src="{{ include.post.image.path | prepend: site.media_host }}" alt="{{ include.post.image.alt }}"/>
+    {% endif %}
+    {% if include.post.image.credit %}
+    <p>Photo: <a href="{{ include.post.image.credit.url }}" target="_blank">{{ include.post.image.credit.text }}</a></p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <div class="post-content" itemprop="articleBody">
+    {{ include.post.content }}
+  </div>
+
+  {% if include.post.media and include.post.media.type == "audio/mp3" %}
+  <div class="post-player">
+    <audio controls>
+      <source src="{{ include.post.media.path | prepend: site.media_host  }}" type="{{ include.post.media.type }}">
+    </audio>
+  </div>
+  {% endif %}
+
+  {% if site.disqus.shortname and include.on_home == false %}
+    {% include disqus.html %}
+  {% endif %}
+</article>
