@@ -46,6 +46,6 @@
   {% endif %}
 
   {% if site.disqus.shortname and include.on_home == false %}
-    {% include disqus.html %}
+    {% include disqus.html post=include.post %}
   {% endif %}
 </article>
