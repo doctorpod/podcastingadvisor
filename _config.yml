@@ -17,8 +17,7 @@ title: Podcasting Advisor
 email: 
 description: For individuals and organisations starting and producing podcasts
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: "http://podcastingadvisor.com"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://podcastingadvisor.com
 twitter_username: doctorpod
 github_username:  doctorpod
 permalink: pretty
