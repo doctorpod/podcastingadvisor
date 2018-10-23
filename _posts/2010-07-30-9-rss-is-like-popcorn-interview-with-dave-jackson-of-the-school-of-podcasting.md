@@ -46,11 +46,3 @@ I was delighted to spend some time yesterday morning talking with Dave Jackson o
 * A simple explanation of RSS using a popcorn analogy
 * The steps forward for those hesitating with podcasting
 * Top tips when starting a podcast
-
-Equipment and software mentioned:
-
-* [Shure SM58](http://www.amazon.co.uk/dp/B000CZ0R42/ref=asc_df_B000CZ0R42620957/?creative=7966&amp;creativeASIN=B000CZ0R42&amp;linkCode=asn) microphone.
-* [Audio Technica 3035](http://www.amazon.co.uk/dp/B000BFVI5A/ref=asc_df_B000BFVI5A620957/?creative=7966&amp;creativeASIN=B000BFVI5A&amp;linkCode=asn) condenser microphone.
-* Behringer Eurorack UB802 mixer (no longer available - closest is the [Xenyx 802](http://www.amazon.co.uk/BEHRINGER-XENYX-802-MIX-BOARD/dp/B000J5XS3C/ref=sr_1_2?ie=UTF8&amp;s=musical-instruments&amp;qid=1280477153&amp;sr=8-2)).
-* [DBX 286a](http://dbxpro.com/en-US/products/286a) pre amp/noise gate.
-* Zoom H4 (now the [Zoom H4n](http://www.advancedmp3players.co.uk/shop/product_info.php?products_id=3684)).

@@ -128,10 +128,10 @@ media:
 ---
 In today's show I talk about a few portable audio recorders I'm familiar with. I was introduced to a new web based podcasting platform yesterday - [ipadio.com](http://ipadio.com). Only had a quick look but it looks very interesting and I'll cover it in a later show.
 
-[Blue Mikey](http://www.amazon.co.uk/Blue-Mikey-Portable-Microphone-Recorder/dp/B002S3S3WY/) - an external stereo microphone for the iPhone and iPods - [nice review here](http://applereviews.com/blue-mikey-review)
+Blue Mikey - an external stereo microphone for the iPhone and iPods - [nice review here](http://applereviews.com/blue-mikey-review)
 
 [iPhone App - Blue FiRe that goes with the Mikey](http://itunes.apple.com/us/app/blue-fire/id336713577)
 
-[The Zoom H4n](http://www.amazon.co.uk/Zoom-H4n-Bonus-16GB-Tripod/dp/B001RBY2CI/) - what you get these days in place of the H4.
+The Zoom H4n - what you get these days in place of the H4.
 
 A [nice page about the new Zoom H1](http://www.samsontech.com/products/productpage.cfm?prodID=2053)

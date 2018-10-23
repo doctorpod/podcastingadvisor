@@ -42,8 +42,4 @@ media:
 ---
 In this week's episode I talk with Skipper Wise of [Blue Microphones](http://www.bluemic.com).
 
-* [The Snowball](http://www.amazon.co.uk/Blue-Microphones-Snowball-Microphone-White/dp/B000EOPQ7E/)
-* [The Yeti](http://www.amazon.co.uk/Blue-Microphones-Yeti-USB-Microphone/dp/B002VA464S/)
-* [The Mikey](http://www.amazon.co.uk/Blue-Microphones-Mikey-iPod-Recorder/dp/B001FBL2SW/) and the [Blue Fire iPod Touch/iPhone app](http://itunes.apple.com/us/app/blue-fire/id336713577)
-
 It was a fascinating chat and I really got an insight to the ethos of Blue. Skipper loves the combination of art and engineering. I asked him first about his musical beginnings and how Blue got started.

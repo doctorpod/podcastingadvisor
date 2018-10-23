@@ -44,7 +44,7 @@ A recommended podcast on content from Michael:
 
 Michael also recommends these books:
 
-* [Content Strategy for the Web - Kristina Halvorson](http://www.amazon.co.uk/Content-Strategy-Voices-That-Matter/dp/0321620062/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1307953571&amp;sr=1-1)
+* Content Strategy for the Web - Kristina Halvorson
 * [Elements of Content Strategy - Erin Kissane](http://www.abookapart.com/products/the-elements-of-content-strategy)
 
 And, for good measure, a couple of useful links on the inverted pyramid style:
